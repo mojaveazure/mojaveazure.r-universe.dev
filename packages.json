@@ -2,5 +2,9 @@
     {
         "package": "mamisc",
         "url": "https://github.com/mojaveazure/mamisc"
+    },
+    {
+        "package": "ggseurat",
+        "url": "https://github.com/mojaveazure/ggseurat"
     }
 ]

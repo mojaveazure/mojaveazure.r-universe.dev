@@ -6,5 +6,9 @@
     {
         "package": "ggseurat",
         "url": "https://github.com/mojaveazure/ggseurat"
+    },
+    {
+        "package": "pbmc3k.sce",
+        "url": "https://github.com/mojaveazure/pbmc3k-sce"
     }
 ]

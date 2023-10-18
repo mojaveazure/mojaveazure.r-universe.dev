@@ -10,5 +10,10 @@
     {
         "package": "pbmc3k.sce",
         "url": "https://github.com/mojaveazure/pbmc3k-sce"
+    },
+    {
+        "package": "SeuratObject",
+        "url": "https://github.com/mojaveazure/seurat-object",
+        "branch": "@v4.1.4"
     }
 ]

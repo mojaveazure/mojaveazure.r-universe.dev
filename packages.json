@@ -15,5 +15,10 @@
         "package": "SeuratObject",
         "url": "https://github.com/satijalab/seurat-object",
         "branch": "develop"
+    },
+    {
+        "package": "tiledb",
+        "url": "https://github.com/TileDB-Inc/TileDB-R",
+        "branch": "0.22.0"
     }
 ]

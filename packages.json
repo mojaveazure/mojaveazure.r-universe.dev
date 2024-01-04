@@ -20,5 +20,10 @@
         "package": "tiledb",
         "url": "https://github.com/TileDB-Inc/TileDB-R",
         "branch": "0.22.0"
+    },
+    {
+        "package": "remotes",
+        "url": "https://github.com/mojaveazure/remotes",
+        "branch": "feat/install-version-binaries"
     }
 ]

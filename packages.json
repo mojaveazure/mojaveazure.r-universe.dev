@@ -17,6 +17,11 @@
         "branch": "develop"
     },
     {
+        "package": "Seurat",
+        "url": "https://github.com/satijalab/seurat",
+        "branch": "develop"
+    },
+    {
         "package": "tiledb",
         "url": "https://github.com/TileDB-Inc/TileDB-R",
         "branch": "0.23.0"

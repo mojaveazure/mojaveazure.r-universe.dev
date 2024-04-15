@@ -30,5 +30,11 @@
         "package": "remotes",
         "url": "https://github.com/mojaveazure/remotes",
         "branch": "feat/install-version-binaries"
+    },
+    {
+        "package": "tiledbsoma",
+        "url": "https://github.com/single-cell-data/TileDB-SOMA",
+        "subdir": "apis/r"
+        "branch": "ph/test/doublepin"
     }
 ]

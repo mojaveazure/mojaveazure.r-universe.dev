@@ -40,5 +40,9 @@
         "url": "https://github.com/single-cell-data/TileDB-SOMA",
         "subdir": "apis/r",
         "branch": "ph/test/doublepin"
+    },
+    {
+        "package": "tinyexpect",
+        "url": "https://github.com/mojaveazure/tinyexpect"
     }
 ]

@@ -27,8 +27,7 @@
     },
     {
         "package": "tiledb",
-        "url": "https://github.com/TileDB-Inc/TileDB-R",
-        "branch": "0.24.0"
+        "url": "https://github.com/TileDB-Inc/TileDB-R"
     },
     {
         "package": "remotes",
@@ -38,8 +37,7 @@
     {
         "package": "tiledbsoma",
         "url": "https://github.com/single-cell-data/TileDB-SOMA",
-        "subdir": "apis/r",
-        "branch": "ph/test/doublepin"
+        "subdir": "apis/r"
     },
     {
         "package": "tinyexpect",

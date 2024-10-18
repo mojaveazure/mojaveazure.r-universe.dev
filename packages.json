@@ -42,5 +42,33 @@
     {
         "package": "tinyexpect",
         "url": "https://github.com/mojaveazure/tinyexpect"
+    },
+    {
+        "package": "BiocGenerics",
+        "url": "https://github.com/Bioconductor/BiocGenerics"
+    },
+    {
+        "package": "MatrixGenerics",
+        "url": "https://github.com/Bioconductor/MatrixGenerics"
+    },
+    {
+        "package": "S4Vectors",
+        "url": "https://github.com/Bioconductor/S4Vectors"
+    },
+    {
+        "package": "IRanges",
+        "url": "https://github.com/Bioconductor/IRanges"
+    },
+    {
+        "package": "S4Arrays",
+        "url": "https://github.com/Bioconductor/S4Arrays"
+    },
+    {
+        "package": "SparseArray",
+        "url": "https://github.com/Bioconductor/SparseArray"
+    },
+    {
+        "package": "DelayedArray",
+        "url": "https://github.com/Bioconductor/DelayedArray"
     }
 ]

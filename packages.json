@@ -17,8 +17,7 @@
     },
     {
         "package": "SeuratObject",
-        "url": "https://github.com/satijalab/seurat-object",
-        "branch": "develop"
+        "url": "https://github.com/satijalab/seurat-object"
     },
     {
         "package": "Seurat",

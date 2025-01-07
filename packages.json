@@ -16,6 +16,10 @@
         "url": "https://github.com/mojaveazure/pbmc3k"
     },
     {
+        "package:" "cbmc",
+        "url": "https://github.com/mojaveazure/cbmc"
+    },
+    {
         "package": "SeuratObject",
         "url": "https://github.com/satijalab/seurat-object"
     },

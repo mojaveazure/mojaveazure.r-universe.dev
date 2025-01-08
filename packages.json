@@ -16,7 +16,7 @@
         "url": "https://github.com/mojaveazure/pbmc3k"
     },
     {
-        "package:" "cbmc",
+        "package": "cbmc",
         "url": "https://github.com/mojaveazure/cbmc"
     },
     {

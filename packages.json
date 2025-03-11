@@ -73,5 +73,9 @@
     {
         "package": "DelayedArray",
         "url": "https://github.com/Bioconductor/DelayedArray"
+    },
+    {
+        "package": "MetaboAnalystR",
+        "url": "https://github.com/xia-lab/MetaboAnalystR"
     }
 ]

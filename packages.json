@@ -36,7 +36,6 @@
     {
         "package": "tiledbsoma",
         "url": "https://github.com/single-cell-data/TileDB-SOMA",
-        "branch": "xan/vcpkg",
         "subdir": "apis/r"
     },
     {
